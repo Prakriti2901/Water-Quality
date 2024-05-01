@@ -67,6 +67,8 @@ Visualizations:
 Correlations:
 Explore correlations between RSC, pH, and TDS values to identify relationships and potential dependencies between water quality parameters.
 Correlation Heatmap: Visualize correlations between variables to understand the strength and direction of relationships.
+![image](https://github.com/Prakriti2901/Water-Quality/assets/122342001/114ee1dc-b28b-45ec-abe3-1429feaa3aef)
+
 
 📌Insights and Findings
 Key Insights:
