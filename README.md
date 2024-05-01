@@ -29,15 +29,21 @@ Visualizations:
 📌Analysis of pH
 
 Summary:
-Mean pH value: [Mean value]
-Mode pH value: [Mode value]
-Median pH value: [Median value]
+Mean pH value: 7.84
+Mode pH value: 7.98
+Median pH value: 7.86
 Significance: pH levels determine the acidity or alkalinity of water, affecting its taste, corrosiveness, and ecological balance. Extreme pH values can indicate pollution or natural factors influencing water quality.
 Visualizations:
-Histogram plot
-District-wise distribution
-Year-wise variation
-Seasonal analysis
+![image](https://github.com/Prakriti2901/Water-Quality/assets/122342001/8937428a-3d09-4fcd-ac0b-ec981af4913e)
+![image](https://github.com/Prakriti2901/Water-Quality/assets/122342001/2225d8de-5d11-4076-b546-479df70a1197)
+![image](https://github.com/Prakriti2901/Water-Quality/assets/122342001/913c29bf-1f04-4186-8b7f-c774613a2c9a)
+![image](https://github.com/Prakriti2901/Water-Quality/assets/122342001/8c091d6d-87cb-42f1-aabc-ccc5a062c2b1)
+![image](https://github.com/Prakriti2901/Water-Quality/assets/122342001/ee7767a7-25c8-4cad-8d8a-dcfb2f51a276)
+
+
+
+
+
 
 📌Analysis of TDS
 Summary:
