@@ -1,4 +1,4 @@
-🚀 Water Quality Analysis using Machine Learning
+🚀 WATER QUALITY ANALYSIS USING MACHINE LEARNING
 
 
 📌Introduction
