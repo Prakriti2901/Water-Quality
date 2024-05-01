@@ -12,9 +12,9 @@ The dataset used for this analysis includes water quality measurements collected
 📌Analysis of RSC
 
 Summary:
-Mean RSC value: [Mean value]
-Mode RSC value: [Mode value]
-Median RSC value: [Median value]
+Mean RSC value: -2.36
+Mode RSC value: -0.60
+Median RSC value: -1.36
 Significance: RSC values are crucial indicators of water alkalinity and its suitability for irrigation purposes. High RSC levels can indicate the presence of excess sodium carbonate, which may affect soil structure and crop growth.
 Visualizations:
 Histogram plot
