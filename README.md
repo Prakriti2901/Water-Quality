@@ -1,11 +1,16 @@
-#Water Quality Analysis using Machine Learning
+🚀 Water Quality Analysis using Machine Learning
+
+
 Introduction
+
 Water quality analysis plays a crucial role in assessing the suitability of water for various purposes, including drinking, agriculture, and industrial use. This project focuses on analyzing key water quality parameters such as Residual Sodium Carbonate (RSC), pH level, and Total Dissolved Solids (TDS) using machine learning techniques. The analysis aims to understand the distribution of these parameters, their significance in assessing groundwater quality, and potential correlations between them.
 
 Dataset Description
+
 The dataset used for this analysis includes water quality measurements collected from various regions over multiple years. It contains information on parameters such as RSC, pH, TDS, geographical location, and classification of water quality. Preprocessing steps involve handling missing values and encoding categorical variables.
 
 Analysis of RSC
+
 Summary:
 Mean RSC value: [Mean value]
 Mode RSC value: [Mode value]
