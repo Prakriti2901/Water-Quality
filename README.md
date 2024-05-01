@@ -17,10 +17,14 @@ Mode RSC value: -0.60
 Median RSC value: -1.36
 Significance: RSC values are crucial indicators of water alkalinity and its suitability for irrigation purposes. High RSC levels can indicate the presence of excess sodium carbonate, which may affect soil structure and crop growth.
 Visualizations:
-Histogram plot
-District-wise distribution
-Year-wise variation
-Seasonal analysis
+![image](https://github.com/Prakriti2901/Water-Quality/assets/122342001/f8406918-5c8a-453e-916e-b4e34f1355af)
+
+![image](https://github.com/Prakriti2901/Water-Quality/assets/122342001/6b4b2b95-2c96-4424-a562-edf9a2946b4b)
+![image](https://github.com/Prakriti2901/Water-Quality/assets/122342001/b73d8419-b5c1-4b81-a8bf-308ee41341b8)
+![image](https://github.com/Prakriti2901/Water-Quality/assets/122342001/2143c19c-8b42-4655-8403-fdc200af0c5c)
+
+
+
 
 📌Analysis of pH
 
