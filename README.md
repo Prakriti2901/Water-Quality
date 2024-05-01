@@ -47,15 +47,21 @@ Visualizations:
 
 📌Analysis of TDS
 Summary:
-Mean TDS value: [Mean value]
-Mode TDS value: [Mode value]
-Median TDS value: [Median value]
+Mean TDS value: 859.38
+Mode TDS value: 659.2
+Median TDS value: 746.56
 Significance: TDS levels reflect the concentration of dissolved solids in water, including salts, minerals, and organic compounds. High TDS levels may indicate water salinity and affect its taste, suitability for consumption, and impact on aquatic ecosystems.
 Visualizations:
-Histogram plot
-District-wise distribution
-Year-wise variation
-Seasonal analysis
+![image](https://github.com/Prakriti2901/Water-Quality/assets/122342001/23baadbe-75a2-4db8-9ee9-783c106aee10)
+![image](https://github.com/Prakriti2901/Water-Quality/assets/122342001/6e5bde89-5a36-4285-9ca2-b02f0c9306e7)
+![image](https://github.com/Prakriti2901/Water-Quality/assets/122342001/d38b015d-77e3-49c1-9a31-decedabe33dc)
+![image](https://github.com/Prakriti2901/Water-Quality/assets/122342001/9b5cdee5-6b70-4e2a-9dce-622b187fe27f)
+![image](https://github.com/Prakriti2901/Water-Quality/assets/122342001/7f30d378-1c96-42d9-90bf-78e59bb55f43)
+
+
+
+
+
 
 📌Correlation Analysis
 Correlations:
