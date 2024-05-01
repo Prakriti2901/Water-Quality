@@ -90,11 +90,11 @@ Awareness Campaigns: Future initiatives can include awareness campaigns for farm
 
 📌Acknowledgements
 Data Sources: https://www.kaggle.com/datasets/sivapriyagarladinne/telangana-post-monsoon-ground-water-quality-data/code?select=ground_water_quality_2018_post.csv
-Libraries Used: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
+|Libraries Used: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras|
 
 
-References
-[[Include citations for research papers, articles, or resources referenced in the analysis.]](https://www.sciencedirect.com/science/article/pii/S1532046403000340
+📌References
+(https://www.sciencedirect.com/science/article/pii/S1532046403000340
 
 https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-5-3
 
